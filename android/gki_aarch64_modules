@@ -1,0 +1,3 @@
+drivers/soc/qcom/sync_fence/qcom_sync_file.ko
+drivers/soc/qcom/vh_fs/vh_fs.ko
+drivers/iio/goodix_health/goodix_health.ko
